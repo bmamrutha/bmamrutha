@@ -7,7 +7,7 @@ I am a 4th year PhD student at the Instituto de Investigacion en Astronomia y Ci
 - Study Massive Galaxy Clusters (z<0.6) using Optical and Near-infrared photometry
 - Catalogue Creation for the ESO 4MOST CHANCES Evolution Subsurvey (Haines et al., 2023)
 - Data reduction and analysis: Multi-object spectroscopy using the IMACS f/2 instrument on the 6.5 m Magellan Baade Telescope
-- TBD
+- TBD...
 
 <!--<picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
