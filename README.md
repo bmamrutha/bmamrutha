@@ -1,6 +1,6 @@
 ## About me 🤓 👋
 
-I am a 4th year PhD student at the Instituto de Investigacion en Astronomia y Ciencias Planetarias (INCT), Universidad de Atacama, Chile.
+I received my PhD from the Instituto de Investigacion en Astronomia y Ciencias Planetarias (INCT), Universidad de Atacama, Chile.
 
 ## Here is what I do
 
