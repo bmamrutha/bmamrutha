@@ -1,6 +1,6 @@
 ## About me 🤓 👋
 
-I received my PhD from the Instituto de Investigacion en Astronomia y Ciencias Planetarias (INCT), Universidad de Atacama, Chile.
+In 2025, I received my PhD in Astronomy and Planetary Ciences from the Instituto de Investigacion en Astronomia y Ciencias Planetarias (INCT), Universidad de Atacama, Chile.
 
 ## Here is what I do
 
