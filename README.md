@@ -1,6 +1,7 @@
 ## About me 🤓 👋
 
 In 2025, I received my PhD in Astronomy and Planetary Ciences from the Instituto de Investigacion en Astronomia y Ciencias Planetarias (INCT), Universidad de Atacama, Chile.
+
 My PhD thesis was conducted within a duration of 3.5 years with an additional 1.5 years of course work. My PhD thesis is titled, "Galaxy Evolution in Massive Clusters over the
 last five billion years", and a major part of the thesis covers the target selection of the probable galaxy cluster members for the ESO 4MOST CHANCES survey.
 
