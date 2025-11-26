@@ -8,8 +8,8 @@ last five billion years", and a major part of the thesis covers the target selec
 ## Here is what I do
 
 - Study Massive Galaxy Clusters (z<0.6) using Optical and Near-infrared photometry
-- Catalogue Creation for the ESO 4MOST CHANCES Evolution Subsurvey (Haines et al., 2023)
-- Data reduction and analysis: Multi-object spectroscopy using the IMACS f/2 instrument on the 6.5 m Magellan Baade Telescope (Amrutha et al., 2025)
+- Catalogue Creation for the ESO 4MOST CHANCES Evolution Subsurvey [Haines et al., 2023](https://www.eso.org/sci/publications/messenger/archive/no.190-mar23/messenger-no190-31-33.pdf)
+- Data reduction and analysis: Multi-object spectroscopy using the IMACS f/2 instrument on the 6.5 m Magellan Baade Telescope [Amrutha et al., 2025](https://www.aanda.org/articles/aa/pdf/2025/07/aa53971-25.pdf)
 - TBD...
 
 <!--<picture>
