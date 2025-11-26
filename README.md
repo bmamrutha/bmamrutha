@@ -1,6 +1,6 @@
 ## About me 🤓 👋
 
-In 2025, I received my PhD in Astronomy and Planetary Ciences from the Instituto de Investigacion en Astronomia y Ciencias Planetarias (INCT), Universidad de Atacama, Chile.
+On 21st August 2025, I defended my PhD Thesis and received my PhD Degree in Astronomy and Planetary Ciences from the Instituto de Investigacion en Astronomia y Ciencias Planetarias (INCT), Universidad de Atacama, Chile.
 
 My PhD thesis was conducted within a duration of 3 years with an additional 1.5 years of course work. My PhD thesis is titled, "Galaxy Evolution in Massive Clusters over the
 last five billion years", and a major part of the thesis covers the target selection of the probable galaxy cluster members for the ESO 4MOST CHANCES survey.
@@ -9,7 +9,7 @@ last five billion years", and a major part of the thesis covers the target selec
 
 - Study Massive Galaxy Clusters (z<0.6) using Optical and Near-infrared photometry
 - Catalogue Creation for the ESO 4MOST CHANCES Evolution Subsurvey (Haines et al., 2023)
-- Data reduction and analysis: Multi-object spectroscopy using the IMACS f/2 instrument on the 6.5 m Magellan Baade Telescope
+- Data reduction and analysis: Multi-object spectroscopy using the IMACS f/2 instrument on the 6.5 m Magellan Baade Telescope (Amrutha et al., 2025)
 - TBD...
 
 <!--<picture>
